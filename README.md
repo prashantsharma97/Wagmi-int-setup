@@ -1,4 +1,3 @@
-<!-- @format -->
 
 # React + Vite Fresh Setup
 
